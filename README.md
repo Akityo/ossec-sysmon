@@ -9,6 +9,10 @@ https://laskowski-tech.com/2018/11/28/detecting-emotet-and-other-downloader-malw
 
 ![Mapping](mapping/OSSECSYSMON_Coverage.svg)
 
+
+sysmon -accepteula  -i config.xml
+
+
 The 0805-sysmon-modular rules map to the Sysmon configuration by olafhartong and are tagged to the MITRE ATT&CK framework.
 You can find that at the following link.
 
